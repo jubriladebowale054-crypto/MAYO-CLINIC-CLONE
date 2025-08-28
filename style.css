@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.dropdown-toggle:hover{color: blue !important; text-decoration: underline blue;}
+.nav-links:hover{color: blue !important; text-decoration: underline blue !important;}
+.rice{ outline: none;border: none;}
+.mom{height: 470px !important; object-fit: cover !important; width: 100% !important;}
+.wa{position: relative !important;}
+.we{position: absolute !important;}
+.bg-image{background-image:linear-gradient(to left, rgba(0, 0, 0, 0.858) , rgba(0, 0, 0, 0.511) ), url('./Assets/cont-ed-1676659-3734290-0048-C-415x275.jpg') !important; height: 32rem !important; width:100% !important; background-size: cover;}
+.wewek{ padding: 20px !important;}
+.redeo{width: 28rem !important; border-radius: 7px !important;}
+.redeod{width: 28rem !important; border-radius: 7px !important;}
+ /* margin-left:5rem !important; margin-top: 5rem; */
+ .backgroundofyourfamilypicture{background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.005) , rgba(0, 0, 0, 0.826)) ,url('./Assets/Arizona.png') !important; height: 15rem !important; width: 25rem !important; position: relative !important; border-radius: 4px !important;}
+ .backgroundofyourfamilypictures{background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.005) , rgba(0, 0, 0, 0.826)) ,url('./Assets/Florida.png') !important; height: 15rem !important; width: 25rem !important; position: relative !important; border-radius: 4px !important;}
+ .backgroundofyourfamilypicturez{background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.005) , rgba(0, 0, 0, 0.826)) ,url('./Assets/Minnesota.png') !important; height: 15rem !important; width: 25rem !important; position: relative !important; border-radius: 4px !important;}
+ .backgroundofyourfamilypicturey{background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.005) , rgba(0, 0, 0, 0.826)) ,url('./Assets/Mayo\ Clinic\ Health\ System.png') !important; height: 15rem !important; width: 25rem !important; position: relative !important; border-radius: 4px !important;}
+ .backgroundofyourfamilypictureq{background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.005) , rgba(0, 0, 0, 0.826)) ,url('./Assets/Mayo\ Clinic\ Healthcare\ London\ UK.png') !important; height: 15rem !important; width: 25rem !important; position: relative !important; border-radius: 4px !important;}
+.bg-color{background-color: rgb(6, 6, 61) !important; width: 100% !important;}
+.bg-colorz{background-color: rgb(7, 43, 105) !important; width: 100% !important; }
+.bg-light{background-color: white !important; color: white !important;}
+.bg-colorize{background-color: rgb(224, 230, 241) !important; width: 100% !important; }
